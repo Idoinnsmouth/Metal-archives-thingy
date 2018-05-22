@@ -18,7 +18,7 @@ class run {
     //call all bands data
     call(callback){
         $.ajax({
-            url: "test.json",
+            url: "bands.json",
             method: "get",
             success: (e) => {
                 this.bands = e.aaData;
