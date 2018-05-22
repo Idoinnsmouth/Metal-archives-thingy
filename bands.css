@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+header {
+    color: red;
+}
+
+.main {
+    margin-top: 50px;
+    width: 500px;
+    height: 200px;
+}
+
+.exp {
+    color: white;
+}
+
+h3 {
+    border-bottom: 1px solid #fff;
+    line-height: 1.5em;
+    margin: 10px 0 20px;
+}
+
+.band {
+    border: 3px solid rgb(82, 110, 112);
+    background: url(https://images.designtrends.com/wp-content/uploads/2015/12/17053451/Black-Metal-Background.jpg);
+    background-size: contain;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+.band>div {
+    color: #fff;
+    text-shadow: 0px 0px 20px #000;
+    word-break: normal;
+}
+
+.band>div a {
+    color: red;
+    text-shadow: 0px 0px 20px #000;
+}
+
+.band>div a:hover {
+    color: rgb(161, 0, 0);
+    text-shadow: 0px 0px 20px #000;
+}
+
+.button {
+    margin-top: 70px;
+    width: 100%;
+}
+
+.rnd {
+    height: 50px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: rgb(218, 0, 0);
+    border: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.rnd:hover {
+    animation: button 1.5s linear infinite;
+    background-color: rgb(255, 0, 0);
+}
+
+.rnd:focus {
+    animation: button 1.5s linear infinite;
+    background-color: rgb(255, 0, 0);
+    outline: 0;
+}
+
+footer {
+    color: white;
+    margin-top: 30px;
+    line-height: 15px;
+}
+
+footer a {
+    color: red;
+}
+
+footer a:hover {
+    color: rgb(161, 0, 0);
+}
+
+@keyframes button {
+    0% {
+        box-shadow: 0px 0px 0px rgb(122, 0, 0);
+    }
+    15% {
+        box-shadow: 0px 0px 10px rgb(179, 1, 1);
+    }
+    30% {
+        box-shadow: 0px 0px 15px rgb(214, 1, 1);
+    }
+    50% {
+        box-shadow: 0px 0px 20px rgb(255, 0, 0);
+    }
+    70% {
+        box-shadow: 0px 0px 15px rgb(214, 1, 1);
+    }
+    85% {
+        box-shadow: 0px 0px 10px rgb(179, 1, 1);
+    }
+    100% {
+        box-shadow: 0px 0px 0px rgb(255, 0, 0);
+    }
+}
