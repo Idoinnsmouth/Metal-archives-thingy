@@ -1,7 +1,7 @@
 { 
-	"iTotalRecords": 264,
-	"iTotalDisplayRecords": 264,
-	"sEcho": "",
+	"iTotalRecords": 271,
+	"iTotalDisplayRecords": 271,
+	"sEcho": ,
 	"aaData": [
 			[ 
 			"<a href='https://www.metal-archives.com/bands/Abed/8221'>Abed</a>", 
@@ -14,7 +14,7 @@
 			"<a href='https://www.metal-archives.com/bands/Abnegated/3540406629'>Abnegated</a>", 
 			"Melodic Death Metal",
 			"Ashdod",
-			"<span class=\"split_up\">Split-up</span>"
+			"<span class=\"active\">Active</span>"
 		]
 				,
 					[ 
@@ -57,6 +57,13 @@
 			"Black Metal",
 			"Rishon Le-Zion",
 			"<span class=\"split_up\">Split-up</span>"
+		]
+				,
+					[ 
+			"<a href='https://www.metal-archives.com/bands/Ages_of_Atrophy/3540441954'>Ages of Atrophy</a>", 
+			"Deathcore",
+			"Tel Aviv",
+			"<span class=\"active\">Active</span>"
 		]
 				,
 					[ 
@@ -375,6 +382,13 @@
 		]
 				,
 					[ 
+			"<a href='https://www.metal-archives.com/bands/Clapsodra/3540442211'>Clapsodra</a>", 
+			"Death/Doom Metal",
+			"",
+			"<span class=\"active\">Active</span>"
+		]
+				,
+					[ 
 			"<a href='https://www.metal-archives.com/bands/Concrete_Facial/3540262619'>Concrete Facial</a>", 
 			"Grindcore/Thrash Metal",
 			"Be'er-Sheva",
@@ -447,7 +461,7 @@
 					[ 
 			"<a href='https://www.metal-archives.com/bands/Death_in_Your_Yard/3540420943'>Death in Your Yard</a>", 
 			"Thrash Metal/Crossover",
-			"",
+			"Tel Aviv Yafo",
 			"<span class=\"active\">Active</span>"
 		]
 				,
@@ -977,6 +991,20 @@
 		]
 				,
 					[ 
+			"<a href='https://www.metal-archives.com/bands/Khila/3540437771'>Khila</a>", 
+			"Atmospheric Doom Metal",
+			"Tel-Aviv",
+			"<span class=\"on_hold\">On hold</span>"
+		]
+				,
+					[ 
+			"<a href='https://www.metal-archives.com/bands/Kislember/3540441369'>Kislember</a>", 
+			"Doom Metal",
+			"Haifa",
+			"<span class=\"active\">Active</span>"
+		]
+				,
+					[ 
 			"<a href='https://www.metal-archives.com/bands/Kna%27an/34507'>Kna'an</a>", 
 			"Melodic Death Metal",
 			"Nahariyah",
@@ -1016,6 +1044,13 @@
 			"Black/Death Metal",
 			"Rehovot",
 			"<span class=\"split_up\">Split-up</span>"
+		]
+				,
+					[ 
+			"<a href='https://www.metal-archives.com/bands/Love_Your_Witch/3540445225'>Love Your Witch</a>", 
+			"Stoner/Sludge Metal",
+			"Tel Aviv",
+			"<span class=\"active\">Active</span>"
 		]
 				,
 					[ 
@@ -1393,7 +1428,7 @@
 			"<a href='https://www.metal-archives.com/bands/Separation_Anxiety/3540347517'>Separation Anxiety</a>", 
 			"Atmospheric Death Metal",
 			"Netanya",
-			"<span class=\"active\">Active</span>"
+			"<span class=\"split_up\">Split-up</span>"
 		]
 				,
 					[ 
@@ -1582,6 +1617,13 @@
 			"<a href='https://www.metal-archives.com/bands/Strident/3540265511'>Strident</a>", 
 			"Thrash Metal",
 			"Beer Sheva",
+			"<span class=\"active\">Active</span>"
+		]
+				,
+					[ 
+			"<a href='https://www.metal-archives.com/bands/Structural/3540441464'>Structural</a>", 
+			"Melodic/Progressive Death Metal",
+			"",
 			"<span class=\"active\">Active</span>"
 		]
 				,
@@ -1848,6 +1890,13 @@
 			"<a href='https://www.metal-archives.com/bands/Zonda/20118'>Zonda</a>", 
 			"Heavy Metal",
 			"Jerusalem",
+			"<span class=\"split_up\">Split-up</span>"
+		]
+				,
+					[ 
+			"<a href='https://www.metal-archives.com/bands/%D7%A9%D7%A0%D7%90%D7%AA_%D7%97%D7%99%D7%A0%D7%9D/3540444300'>שנאת חינם</a>", 
+			"Black Metal/Crust",
+			"",
 			"<span class=\"split_up\">Split-up</span>"
 		]
 				]
